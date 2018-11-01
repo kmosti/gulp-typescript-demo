@@ -1,0 +1,1 @@
+This is just a quick intro into gulp and typescript written for my team.
